@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+##### A mobile and web developer, currently working on web development and React Native development for iOS and Android platforms. 🚀
+
+[![RamboLouis](https://skillicons.dev/icons?i=vue,react,java,swift,js,html,css,vim,flutter,nuxtjs,redux,linux,vscode,androidstudio,apple,docker,npm,nodejs,powershell,mysql,md,git,figma)](https://github.com/RamboLouis)
 <!--
 **RamboLouis/RamboLouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
